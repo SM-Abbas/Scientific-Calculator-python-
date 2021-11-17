@@ -3,7 +3,7 @@ Scientific Calculator  made using python for school project
 
 Download python from python.org
 
-open Idle then open compiler in idle by pressing ctrl+N
+open Idle then open Script mode in idle by pressing ctrl+N
 
 paste the code available in .py file
 
